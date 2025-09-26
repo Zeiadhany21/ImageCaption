@@ -1,0 +1,10 @@
+Flask
+gunicorn
+tensorflow
+numpy
+pickle-mixin
+scikit-learn
+Pillow
+matplotlib
+seaborn
+tqdm
